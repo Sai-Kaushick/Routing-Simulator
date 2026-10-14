@@ -1,0 +1,5 @@
+phase,protocol,sent_packets,received_packets,lost_packets,drop_events,pdr_percent,throughput_kbps,avg_delay_ms,measurement_window_s
+before_failure,RIP,1438,1438,0,0,100.0,884.9230769230769,46.40245897079279,13.0
+after_failure,RIP,1188,1188,0,0,100.0,950.4,46.816296296296215,10.0
+before_failure,OSPF,1438,1438,0,0,100.0,884.9230769230769,46.19999999999916,13.0
+after_failure,OSPF,1188,1188,0,0,100.0,950.4,48.1179797979786,10.0

@@ -1,0 +1,10 @@
+{
+  "experiment": "failure_comparison",
+  "failed_link": [
+    "R2",
+    "R3"
+  ],
+  "failure_time_s": 13.0,
+  "source": "R3",
+  "destination": "R7"
+}
